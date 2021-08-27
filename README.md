@@ -1,1 +1,1 @@
-# Superuser-design
+# Superuser.
